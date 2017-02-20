@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openweather>
+    <city>{{weather.city}}</city>
+    <cityID>{{weather.city_id}}</cityID>
+    <country>{{weather.country}}</country>
+    <lon>{{weather.lon}}</lon>
+    <lat>{{weather.lat}}</lat>
+    <temp>{{weather.temp}}</temp>
+    <tempMin>{{weather.temp_min}}</tempMin>
+    <tempMax>{{weather.temp_max}}</tempMax>
+    <pressure>{{weather.temp.pressure}}</pressure>
+    <humidity>{{weather.humidity}}</humidity>
+    <visibility>{{weather.visibility}}</visibility>
+    <windSpeed>{{weather.wind_speed}}</windSpeed>
+    <windDeg>{{weather.wind_deg}}</windDeg>
+    <sunrise>{{weather.sunrise}}</sunrise>
+    <sunset>{{weather.sunset}}</sunset>
+    <weather>{{weather.weather}}</weather>
+    <description>{{weather.description}}</description>
+    <createdAt>{{weather.created_at}}</createdAt>
+</openweather>

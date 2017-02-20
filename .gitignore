@@ -1,0 +1,7 @@
+.DS_Store
+.Python
+*.pyc
+.env/
+pip-selfcheck.json
+__pycache__/
+db.sqlite3
